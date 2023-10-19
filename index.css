@@ -1,0 +1,25 @@
+#ejercicio3{
+    cursor: pointer;
+    position: relative;
+    z-index:inherit ;
+    background-color: rgb(58, 57, 57);
+}
+
+#ejercicio3 ul{
+    line-height: 30px;
+
+}
+
+#lenguajes{
+    border: 2px solid;
+    position: relative;
+    cursor: pointer;
+    background-color: rgb(148, 146, 146);
+    width: 60px;
+    height: 30px;
+    text-align: center;
+}
+
+#ejercicio-3{
+    text-align: center;
+}
